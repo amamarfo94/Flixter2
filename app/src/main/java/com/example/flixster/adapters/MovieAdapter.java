@@ -84,7 +84,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder>{
                  Intent i = new Intent(_context, DetailActivity.class);
                  i.putExtra("movie", Parcels.wrap(movie));
 
-
+            //Hey
                  _context.startActivity(i);
 
                 }
