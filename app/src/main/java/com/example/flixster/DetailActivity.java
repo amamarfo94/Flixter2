@@ -25,7 +25,7 @@ public class DetailActivity extends YouTubeBaseActivity {
     TextView tvOverview;
     RatingBar ratingBar;
     YouTubePlayerView youTubePlayerView;
-    private Object provider;
+
 
 
     @Override
