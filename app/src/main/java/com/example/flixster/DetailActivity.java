@@ -47,7 +47,7 @@ public class DetailActivity extends YouTubeBaseActivity {
 
         youTubePlayerView.initialize(YOUTUBE_API_KEY, new YouTubePlayer.OnInitializedListener(){
             
-        }
+
 
             @Override
             public void onInitializationSuccess(YouTubePlayer.Provider provider, YouTubePlayer youTubePlayer, boolean b) {
